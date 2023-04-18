@@ -23,7 +23,7 @@ const students = [
 
 
 
-// Método que imprime sección raiz
+// Método que imprime sección raíz
 app.get('/', (req, res)=> {
     res.send('Welcome API!');
 });
